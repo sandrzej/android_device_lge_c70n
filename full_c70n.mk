@@ -51,6 +51,7 @@ PRODUCT_PROPERTY_OVERRIDES += \
     persist.audio.fluence.voicecall=true \
     persist.audio.fluence.voicerec=false \
     persist.audio.fluence.speaker=true \
+    ro.config.low_ram=true \
     ro.qc.sdk.audio.fluencetype=none
 
 # Audio configuration
